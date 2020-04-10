@@ -1,1 +1,44 @@
+@media(max-width: 800px){
+
+  
+  body{
+   color:#333;
+    width: 100%;
+  }
+  header{
+    width:100%;
+  }
+  .copy-container h1{
+    width:100%;
+    font-size: 45px;
+    border-bottom: 8px solid #f5f843;
+  }
+  .copy-container h2{
+    font-size: 23px;
+  }
+  .contents-item img{
+    width:300px;
+    height:260px;
+
+  }
+  .alubam > h1{
+    color: rgb(235, 156, 195);
+    background-color: white;
+    /* margin: 0; */
+    /* height:100px; */
+  }
+
+  .section-title{
+    font-size:20px;
+    margin:0;
+    padding:0;
+    border-bottom: none;
+    color: rgb(151, 120, 136);
+    background-color: white;
+  }
+  .warap{
+    overflow: hidden;
+    /* width:100%; */
+  }
+}
 
